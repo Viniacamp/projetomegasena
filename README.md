@@ -1,4 +1,4 @@
-# projetomegasena
+# Projeto Mega-Sena
 
 O "Projeto Mega-Sena" é um aplicativo Android feito em Java onde o usuário pode realizar um sorteio de 6 números aleatórios em ordem crescente.
 
